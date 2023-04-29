@@ -1,0 +1,16 @@
+.btn-mybutton{
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.btn-mybutton:hover{
+    background-color: rgb(64, 205, 64);
+}
+
+.btn-mybutton{
+    transition-duration: 0.4s;
+}
+
